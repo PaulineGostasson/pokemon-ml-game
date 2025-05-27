@@ -1,7 +1,7 @@
 import pickle
 import numpy as np
 
-# Ladda modellen och scalern
+# Load model/scaler
 with open("notebooks/data/model.pkl", "rb") as f:
     model = pickle.load(f)
 
