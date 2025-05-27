@@ -1,4 +1,4 @@
-# Pokémon ML Battle Game 🎮
+# Pokémon ML Battle Game 
 
 This project is a machine learning-based Pokémon battle simulator built with Python and Tkinter. It combines real data from a Pokémon dataset with a trained classification model to simulate battles between Pokémon based on their stats.
 
@@ -20,7 +20,7 @@ Each "match" compares two Pokémon and predicts which one would win based on the
 
 ---
 
-## 🕹️ Game Features
+## Game Features
 
 - Choose your name and starter Pokémon (from a list of official starters)
 - Battle a wild, balanced opponent (based on total stat range)
@@ -31,7 +31,7 @@ Each "match" compares two Pokémon and predicts which one would win based on the
 
 ---
 
-## 🗂️ File Overview
+## File Overview
 
 - `main.py` – Main game file (Tkinter GUI)
 - `pokemon_data.py` - Functions for loading and filtering Pokémon from CSV
@@ -42,7 +42,7 @@ Each "match" compares two Pokémon and predicts which one would win based on the
 
 ---
 
-## 💻 Requirements
+## Requirements
 
 - Python 3.10
 - Packages:
